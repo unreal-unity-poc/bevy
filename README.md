@@ -25,7 +25,7 @@ The authoritative simulation and FFI contracts live in [`unreal-unity-poc/rust-e
 cargo run
 ```
 
-Use `RUST_LOG=debug` for additional diagnostics.
+Controls: arrow keys rotate, Page Up/Page Down zoom, and R resets the shared simulation.
 
 ## Repository role
 
